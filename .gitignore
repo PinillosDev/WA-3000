@@ -1,0 +1,10 @@
+# Project
+build/
+dist/
+ExecuteThis.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
