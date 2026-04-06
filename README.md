@@ -15,9 +15,11 @@ It’s pretty simple!
 2. Extract it wherever you want.
 3. Do the below:
 
-![image.png](image.png)
+![image.png](readme_image.png)
 
-1. Enjoy!
+4. Enjoy!
+
+Remember you can set that application as direct access somewhere if you want to place it on a more memorable place.
 
 ## That’s it.
 

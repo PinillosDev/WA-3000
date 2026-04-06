@@ -2,6 +2,7 @@
 build/
 dist/ExecuteThis/_internal
 ExecuteThis.spec
+readme_image.png
 
 # Python
 __pycache__/
