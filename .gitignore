@@ -1,6 +1,6 @@
 # Project
 build/
-dist/
+dist/ExecuteThis/_internal
 ExecuteThis.spec
 
 # Python
